@@ -16,3 +16,10 @@
 
 **Link to work:** https://www.freecodecamp.org/map
 
+### Day 3: 11 September 2017
+
+**Today's Progress**: Learned more Basic Javascript on FreeCodeCamp (almost done)
+
+**Thoughts:** Missed also yesterday. Will have to make it up. Learned more basic javascript function and syntax on freecodecamp. I will be able to finish the Basic Javascript tutorial tomorrow.
+
+**Link to work:** https://www.freecodecamp.org/map
