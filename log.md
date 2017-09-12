@@ -23,3 +23,11 @@
 **Thoughts:** Missed also yesterday. Will have to make it up. Learned more basic javascript function and syntax on freecodecamp. I will be able to finish the Basic Javascript tutorial tomorrow.
 
 **Link to work:** https://www.freecodecamp.org/map
+
+### Day 4: 12 September 2017
+
+**Today's Progress**: Finished Basic Javascript on FreeCodeCamp
+
+**Thoughts:** Finally finished Basic Javascript on FreeCodeCamp. Will read up more on Javascript as well as do the Javascript 30 days video series.
+
+**Link to work:** https://www.freecodecamp.org/map
