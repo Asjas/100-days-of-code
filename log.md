@@ -31,3 +31,11 @@
 **Thoughts:** Finally finished Basic Javascript on FreeCodeCamp. Will read up more on Javascript as well as do the Javascript 30 days video series.
 
 **Link to work:** https://www.freecodecamp.org/map
+
+### Day 5: 13 September 2017
+
+**Today's Progress**: Finished OOP & Functional JavaScript programming on FreeCodeCamp
+
+**Thoughts:** Finished the OOP & Functional JavaScript programming part of FreeCodeCamp. Will work tomorrow on learning a bit more on MDN about arrays & JavaScript programming.
+
+**Link to work:** https://www.freecodecamp.org/map
