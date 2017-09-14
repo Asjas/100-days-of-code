@@ -14,7 +14,7 @@
 
 **Thoughts:** Missed yesterday. Will have to make it up. Learned basic javascript function and syntax.
 
-**Link to work:** https://www.freecodecamp.org/map
+**Link to work:** https://www.freecodecamp.org/asjas
 
 ### Day 3: 11 September 2017
 
@@ -22,7 +22,7 @@
 
 **Thoughts:** Missed also yesterday. Will have to make it up. Learned more basic javascript function and syntax on freecodecamp. I will be able to finish the Basic Javascript tutorial tomorrow.
 
-**Link to work:** https://www.freecodecamp.org/map
+**Link to work:** https://www.freecodecamp.org/asjas
 
 ### Day 4: 12 September 2017
 
@@ -30,7 +30,7 @@
 
 **Thoughts:** Finally finished Basic Javascript on FreeCodeCamp. Will read up more on Javascript as well as do the Javascript 30 days video series.
 
-**Link to work:** https://www.freecodecamp.org/map
+**Link to work:** https://www.freecodecamp.org/asjas
 
 ### Day 5: 13 September 2017
 
@@ -38,4 +38,12 @@
 
 **Thoughts:** Finished the OOP & Functional JavaScript programming part of FreeCodeCamp. Will work tomorrow on learning a bit more on MDN about arrays & JavaScript programming.
 
-**Link to work:** https://www.freecodecamp.org/map
+**Link to work:** https://www.freecodecamp.org/asjas
+
+### Day 6: 14 September 2017
+
+**Today's Progress**: Halfway done with Basic Algorithm Scripting on FreeCodeCamp
+
+**Thoughts:** Finished 9 of the Basic Algorithm problems today. Will do some more research on MDN on Strings and Arrays and how to manipulate them
+
+**Link to work:** https://www.freecodecamp.org/asjas
