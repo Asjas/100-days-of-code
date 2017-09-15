@@ -47,3 +47,13 @@
 **Thoughts:** Finished 9 of the Basic Algorithm problems today. Will do some more research on MDN on Strings and Arrays and how to manipulate them
 
 **Link to work:** https://www.freecodecamp.org/asjas
+
+### Day 7: 15 September 2017
+
+**Today's Progress**: Almost done with Basic Algorithm Scripting. Only 2 challenges left.
+
+**Thoughts:** Only 2 challenges left before I'm done with Basic Algorithm Scripting
+
+**Link to work:** https://www.freecodecamp.org/asjas
+
+
