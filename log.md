@@ -56,4 +56,18 @@
 
 **Link to work:** https://www.freecodecamp.org/asjas
 
+### Day 8: 16 September 2017
+
+**Today's Progress**: Finished JSON & AJAX on Freecodecamp
+
+**Thoughts:** Finished JSON & Ajax part of FreeCodeCamp
+**Link to work:** https://www.freecodecamp.org/asjas
+
+### Day 9: 17 September 2017
+
+**Today's Progress**: Worked on my own site. Added a contact form and cleaned up the code
+
+**Thoughts:** Still need to do a lot of work on my website
+
+**Link to work:** https://asjas.github.io
 
