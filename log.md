@@ -71,3 +71,10 @@
 
 **Link to work:** https://asjas.github.io
 
+### Day 10: 18 September 2017
+
+**Today's Progress**: Used a bootstrap theme and edited it as needs be
+
+**Thoughts:** Finally done with the webpage. Will update as needed
+
+**Link to work:** https://asjas.github.io
