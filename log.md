@@ -84,5 +84,6 @@
 **Today's Progress**: Watched the first 10 What The Flexbox?! videos
 
 **Thoughts:** Will look at more of the theory and text tomorrow at work. Will then finish the last 10 videos tomorrow night.
+Creating a github repo to practice flexbox
 
-**Link to work:** https://courses.wesbos.com
+**Link to work:** https://github.com/Asjas/what-the-flexbox/tree/master
