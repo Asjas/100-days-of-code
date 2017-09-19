@@ -78,3 +78,11 @@
 **Thoughts:** Finally done with the webpage. Will update as needed
 
 **Link to work:** https://asjas.github.io
+
+### Day 11: 19 September 2017
+
+**Today's Progress**: Watched the first 10 What The Flexbox?! videos
+
+**Thoughts:** Will look at more of the theory and text tomorrow at work. Will then finish the last 10 videos tomorrow night.
+
+**Link to work:** https://courses.wesbos.com
