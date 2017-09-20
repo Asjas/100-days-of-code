@@ -87,3 +87,12 @@
 Creating a github repo to practice flexbox
 
 **Link to work:** https://github.com/Asjas/what-the-flexbox/tree/master
+
+### Day 12: 20 September 2017
+
+**Today's Progress**: Configured Node.js puppeteer to take screenshots of websites in Google Chrome Headless Mode
+
+**Thoughts:** I learned a bit of async/await of JavaScript. Also how to setup puppeteer to take screenshots using Google Chrome. I really enjoyed setting this up. I learned quite a few new things related to JavaScript and Node.js. 
+
+**Link to work:** https://github.com/Asjas/automating-google-chrome-with-node-js
+
