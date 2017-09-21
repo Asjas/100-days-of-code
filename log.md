@@ -96,3 +96,10 @@ Creating a github repo to practice flexbox
 
 **Link to work:** https://github.com/Asjas/automating-google-chrome-with-node-js
 
+### Day 13: 21 September 2017
+
+**Today's Progress**: Created the base page layout and created 2 buttons
+
+**Thoughts:** Still need to make a few more changes to the main page before working on the JavaScript 
+
+**Link to work:** https://github.com/Asjas/random-quote-machine/tree/master
