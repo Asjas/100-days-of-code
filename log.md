@@ -103,3 +103,13 @@ Creating a github repo to practice flexbox
 **Thoughts:** Still need to make a few more changes to the main page before working on the JavaScript 
 
 **Link to work:** https://github.com/Asjas/random-quote-machine/tree/master
+
+### Day 14: 22 September 2017
+
+**Today's Progress**: Still working on the Random Quote Generator
+
+**Thoughts:** Struggling with the AJAX & Jquery part of the site. Need to watch a few videos and tutorials before I can continue
+
+**Link to work:** https://github.com/Asjas/random-quote-machine/tree/master
+
+
