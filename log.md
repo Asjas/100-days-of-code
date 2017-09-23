@@ -112,4 +112,10 @@ Creating a github repo to practice flexbox
 
 **Link to work:** https://github.com/Asjas/random-quote-machine/tree/master
 
+### Day 15: 23 September 2017
 
+**Today's Progress**: Finished the AJAX & JavaScript of the Random Quote Generator.
+
+**Thoughts:** Finished the Ajax & Jquery part of the site. The site also generates a quote on opening. I still need to finalize the look of the site as well as add a color animation of different colors on each button press.
+
+**Link to work:** https://codepen.io/asjas/full/rGOOrq/
