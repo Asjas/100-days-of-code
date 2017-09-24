@@ -119,3 +119,11 @@ Creating a github repo to practice flexbox
 **Thoughts:** Finished the Ajax & Jquery part of the site. The site also generates a quote on opening. I still need to finalize the look of the site as well as add a color animation of different colors on each button press.
 
 **Link to work:** https://codepen.io/asjas/full/rGOOrq/
+
+### Day 16: 24 September 2017
+
+**Today's Progress**: Finished the Random Quote Generator website for FreeCodeCamp.
+
+**Thoughts:** Finished the Random Quote Generator. Finalized the background color rotation of the website.
+
+**Link to work:** https://codepen.io/asjas/full/rGOOrq/
