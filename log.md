@@ -127,3 +127,12 @@ Creating a github repo to practice flexbox
 **Thoughts:** Finished the Random Quote Generator. Finalized the background color rotation of the website.
 
 **Link to work:** https://codepen.io/asjas/full/rGOOrq/
+
+### Day 17: 25 September 2017
+
+**Today's Progress**: Started work on the Local Weather App
+
+**Thoughts:** Did a bit of work on my static portfolio site. Then started to build the Local Weather App. Still looking at photos to use
+and how to build the site
+
+**Link to work:** https://codepen.io/asjas/pen/YrNZya
