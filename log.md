@@ -92,7 +92,7 @@ Creating a github repo to practice flexbox
 
 **Today's Progress**: Configured Node.js puppeteer to take screenshots of websites in Google Chrome Headless Mode
 
-**Thoughts:** I learned a bit of async/await of JavaScript. Also how to setup puppeteer to take screenshots using Google Chrome. I really enjoyed setting this up. I learned quite a few new things related to JavaScript and Node.js. 
+**Thoughts:** I learned a bit of async/await of JavaScript. Also how to setup puppeteer to take screenshots using Google Chrome. I really enjoyed setting this up. I learned quite a few new things related to JavaScript and Node.js.
 
 **Link to work:** https://github.com/Asjas/automating-google-chrome-with-node-js
 
@@ -100,7 +100,7 @@ Creating a github repo to practice flexbox
 
 **Today's Progress**: Created the base page layout and created 2 buttons
 
-**Thoughts:** Still need to make a few more changes to the main page before working on the JavaScript 
+**Thoughts:** Still need to make a few more changes to the main page before working on the JavaScript
 
 **Link to work:** https://github.com/Asjas/random-quote-machine/tree/master
 
@@ -130,9 +130,17 @@ Creating a github repo to practice flexbox
 
 ### Day 17: 25 September 2017
 
-**Today's Progress**: Started work on the Local Weather App
+**Today's Progress**: Started work on the FCC Weather App
 
 **Thoughts:** Did a bit of work on my static portfolio site. Then started to build the Local Weather App. Still looking at photos to use
 and how to build the site
+
+**Link to work:** https://codepen.io/asjas/pen/YrNZya
+
+### Day 18: 26 September 2017
+
+**Today's Progress**: Second day working on FCC Weather App
+
+**Thoughts:** Finished most of the jQuery of the website. I can now query the FCC Api and load 5 elements in HTML. Need to finish the design of the HTML & CSS
 
 **Link to work:** https://codepen.io/asjas/pen/YrNZya
