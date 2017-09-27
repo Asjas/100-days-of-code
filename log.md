@@ -144,3 +144,12 @@ and how to build the site
 **Thoughts:** Finished most of the jQuery of the website. I can now query the FCC Api and load 5 elements in HTML. Need to finish the design of the HTML & CSS
 
 **Link to work:** https://codepen.io/asjas/pen/YrNZya
+
+### Day 19: 27 September 2017
+
+**Today's Progress**: Third day working on FCC Weather App
+
+**Thoughts:** Almost done with the JavaScript and CSS. I should be finished with the website tomorrow. I'm really close to being done. Learned how to add a image to the body
+using JavaScript.
+
+**Link to work:** https://codepen.io/asjas/pen/YrNZya
