@@ -153,3 +153,13 @@ and how to build the site
 using JavaScript.
 
 **Link to work:** https://codepen.io/asjas/pen/YrNZya
+
+### Day 20: 28 September 2017
+
+**Today's Progress**: Finished FCC Weather App
+
+**Thoughts:** Finished FCC Weather App. Will update the app once I learn more about JavaScript.
+I'm currently limited on what I can still do with updating the weather icon by inserting
+HTML Code.
+
+**Link to work:** https://codepen.io/asjas/pen/YrNZya
