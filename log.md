@@ -163,3 +163,13 @@ I'm currently limited on what I can still do with updating the weather icon by i
 HTML Code.
 
 **Link to work:** https://codepen.io/asjas/pen/YrNZya
+
+### Day 21: 30 September 2017
+
+**Today's Progress**: Day 1 of the Freecodecamp Wikipedia Viewer
+
+**Thoughts:** Missed yesterday on the fact that I did not have internet. Started today with
+the freecodecamp Wikipedia Viewer. Finished most of the HTML & CSS. Tomorrow I'll start with
+the jQuery and then I'll finish the HTML & CSS as needed.
+
+**Link to work:** https://codepen.io/asjas/pen/RLZwGz
