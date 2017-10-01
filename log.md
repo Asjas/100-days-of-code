@@ -173,3 +173,13 @@ the freecodecamp Wikipedia Viewer. Finished most of the HTML & CSS. Tomorrow I'l
 the jQuery and then I'll finish the HTML & CSS as needed.
 
 **Link to work:** https://codepen.io/asjas/pen/RLZwGz
+
+### Day 22: 01 October 2017
+
+**Today's Progress**: Day 2 of the Freecodecamp Wikipedia Viewer
+
+**Thoughts:** Made a few changes to the structure of the website. Also finished some of the jQuery
+on the website. I can grab what is typed into the input field and save it as a variable.
+The search works by clicking on the button and using the Enter key.
+
+**Link to work:** https://codepen.io/asjas/pen/RLZwGz
