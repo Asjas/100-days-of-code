@@ -183,3 +183,11 @@ on the website. I can grab what is typed into the input field and save it as a v
 The search works by clicking on the button and using the Enter key.
 
 **Link to work:** https://codepen.io/asjas/pen/RLZwGz
+
+### Day 23: 02 October 2017
+
+**Today's Progress**: Day 3 of the Freecodecamp Wikipedia Viewer
+
+**Thoughts:** Still busy with the FCC Wikipedia Viewer. Having problems with getting the data and displaying it.
+
+**Link to work:** https://codepen.io/asjas/pen/RLZwGz
