@@ -191,3 +191,9 @@ The search works by clicking on the button and using the Enter key.
 **Thoughts:** Still busy with the FCC Wikipedia Viewer. Having problems with getting the data and displaying it.
 
 **Link to work:** https://codepen.io/asjas/pen/RLZwGz
+
+### Day 24: 03 October 2017
+
+**Today's Progress**: Didn't have a lot of time to code. I configured my system for Hackerfest
+
+**Thoughts:** Didn't have a lot of time to code. I configured my system for Hackerfest so that I can start publicly committing.
