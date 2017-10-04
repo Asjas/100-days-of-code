@@ -197,3 +197,12 @@ The search works by clicking on the button and using the Enter key.
 **Today's Progress**: Didn't have a lot of time to code. I configured my system for Hackerfest
 
 **Thoughts:** Didn't have a lot of time to code. I configured my system for Hackerfest so that I can start publicly committing.
+
+### Day 25: 04 October 2017
+
+**Today's Progress**: Worked on the FCC Wikipedia Viewer
+
+**Thoughts:** I worked quite a lot on the front-end color and layout. Also on the @media queries for mobile.
+Still need to work on the jQuery, I'm currently using code I copied.
+
+**Link to work:** https://codepen.io/asjas/pen/RLZwGz
