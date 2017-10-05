@@ -206,3 +206,11 @@ The search works by clicking on the button and using the Enter key.
 Still need to work on the jQuery, I'm currently using code I copied.
 
 **Link to work:** https://codepen.io/asjas/pen/RLZwGz
+
+### Day 26: 05 October 2017
+
+**Today's Progress**: Day 5 of FCC Wikipedia Viewer (Done)
+
+**Thoughts:** Made the last html & css changes. Website is done for now. Will redo the jQuery at a later time
+
+**Link to work:** https://codepen.io/asjas/pen/RLZwGz
