@@ -214,3 +214,12 @@ Still need to work on the jQuery, I'm currently using code I copied.
 **Thoughts:** Made the last html & css changes. Website is done for now. Will redo the jQuery at a later time
 
 **Link to work:** https://codepen.io/asjas/pen/RLZwGz
+
+### Day 27: 06 October 2017
+
+**Today's Progress**: Made a Youtube Player with Three.js
+
+**Thoughts:** Didn't have a lot of time to code today. Played with three.js and copied the documentation on
+how to create a youtube player.
+
+**Link to work:** https://codepen.io/asjas/full/pWawPm/
