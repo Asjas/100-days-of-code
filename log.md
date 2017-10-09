@@ -223,3 +223,11 @@ Still need to work on the jQuery, I'm currently using code I copied.
 how to create a youtube player.
 
 **Link to work:** https://codepen.io/asjas/full/pWawPm/
+
+### Day 28: 09 October 2017
+
+**Today's Progress**: Freecodecamp Twitch.tv
+
+**Thoughts:** Started work on the FCC Twitch.tv app. Also worked on my FCC Wikipedia Viewer & FCC Random Quote generator on my github account
+
+**Link to work:** https://github.com/Asjas
