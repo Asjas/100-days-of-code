@@ -230,4 +230,12 @@ how to create a youtube player.
 
 **Thoughts:** Started work on the FCC Twitch.tv app. Also worked on my FCC Wikipedia Viewer & FCC Random Quote generator on my github account
 
-**Link to work:** https://github.com/Asjas
+**Link to work:** https://github.com/Asjas/twitchtv-viewer
+
+### Day 29: 10 October 2017
+
+**Today's Progress**: Day 2 of Freecodecamp Twitch.tv
+
+**Thoughts:** Congigured my twitch.tv dev account for an api key. Got the basic jQuery to access the API to get the data for the twitch channels
+
+**Link to work:** https://github.com/Asjas/twitchtv-viewer
