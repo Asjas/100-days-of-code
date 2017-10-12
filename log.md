@@ -248,3 +248,11 @@ how to create a youtube player.
 layout of all elements.
 
 **Link to work:** https://github.com/Asjas/twitchtv-viewer
+
+### Day 31: 12 October 2017
+
+**Today's Progress**: Day 4 of Freecodecamp Twitch.tv
+
+**Thoughts:** Almost done with the project. Done with the layout of most of the website. Coded the search button as well.
+
+**Link to work:** https://github.com/Asjas/twitchtv-viewer
