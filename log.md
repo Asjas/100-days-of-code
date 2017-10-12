@@ -236,6 +236,15 @@ how to create a youtube player.
 
 **Today's Progress**: Day 2 of Freecodecamp Twitch.tv
 
-**Thoughts:** Congigured my twitch.tv dev account for an api key. Got the basic jQuery to access the API to get the data for the twitch channels
+**Thoughts:** Configured my twitch.tv dev account for an api key. Got the basic jQuery to access the API to get the data for the twitch channels
+
+**Link to work:** https://github.com/Asjas/twitchtv-viewer
+
+### Day 30: 11 October 2017
+
+**Today's Progress**: Day 3 of Freecodecamp Twitch.tv
+
+**Thoughts:** Configured Javascript to generate HTML for each twitch user. Also finished the basic flex
+layout of all elements.
 
 **Link to work:** https://github.com/Asjas/twitchtv-viewer
