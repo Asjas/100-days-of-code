@@ -256,3 +256,19 @@ layout of all elements.
 **Thoughts:** Almost done with the project. Done with the layout of most of the website. Coded the search button as well.
 
 **Link to work:** https://github.com/Asjas/twitchtv-viewer
+
+### Day 32: 13 October 2017
+
+**Today's Progress**: Day 5 of Freecodecamp Twitch.tv
+
+**Thoughts:** Finished the Freecodecamp Twitch.tv Viewer. Make some final changes to the website and made the website mobile responsive.
+
+**Link to work:** https://codepen.io/asjas/full/KXBxxE/
+
+### Day 33: 14 October 2017
+
+**Today's Progress**: Finished @wesbos What The Flexbox series. Also worked on @codecademy
+
+**Thoughts:** I finished the What The Flexbox video series. I really enjoyed it and learned a LOT about flexbox and how it is used. Also working on some of the @codecademy pro projects that are included in HTML & CSS paths.
+
+**Link to work:** https://www.codecademy.com/Asjas
