@@ -272,3 +272,11 @@ layout of all elements.
 **Thoughts:** I finished the What The Flexbox video series. I really enjoyed it and learned a LOT about flexbox and how it is used. Also working on some of the @codecademy pro projects that are included in HTML & CSS paths.
 
 **Link to work:** https://www.codecademy.com/Asjas
+
+### Day 34: 15 October 2017
+
+**Today's Progress**: Worked on @codecademy and updated all FCC projects to use gulp and autoprefixer
+
+**Thoughts:** Worked on @codecademy and updated all FCC projects to use gulp and autoprefixer. Worked on the CSS & Javascript part of Codecademy.
+
+**Link to work:** https://www.codecademy.com/Asjas and https://github.com/asjas
