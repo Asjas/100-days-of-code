@@ -280,3 +280,11 @@ layout of all elements.
 **Thoughts:** Worked on @codecademy and updated all FCC projects to use gulp and autoprefixer. Worked on the CSS & Javascript part of Codecademy.
 
 **Link to work:** https://www.codecademy.com/Asjas and https://github.com/asjas
+
+### Day 35: 16 October 2017
+
+**Today's Progress**: Worked on @codecademy started learning SASS
+
+**Thoughts:** Started on codecademy learning sass
+
+**Link to work:** https://www.codecademy.com/Asjas
