@@ -288,3 +288,11 @@ layout of all elements.
 **Thoughts:** Started on codecademy learning sass
 
 **Link to work:** https://www.codecademy.com/Asjas
+
+### Day 36: 17 October 2017
+
+**Today's Progress**: Creating a new Personal Website from scratch
+
+**Thoughts:** Started creating a new personal website from scratch using HTML5, CSS, Materialize & SASS
+
+**Link to work:** https://github.com/Asjas/Personal-Webpage
