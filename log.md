@@ -296,3 +296,11 @@ layout of all elements.
 **Thoughts:** Started creating a new personal website from scratch using HTML5, CSS, Materialize & SASS
 
 **Link to work:** https://github.com/Asjas/Personal-Webpage
+
+### Day 37: 18 October 2017
+
+**Today's Progress**: Watch
+
+**Thoughts:** Watching Udemy Course Videos
+
+**Link to work:** https://www.udemy.com/user/ajroos/
