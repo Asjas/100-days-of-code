@@ -299,8 +299,16 @@ layout of all elements.
 
 ### Day 37: 18 October 2017
 
-**Today's Progress**: Watch
+**Today's Progress**: Watched Colt Steeles' course on udemy
 
 **Thoughts:** Watching Udemy Course Videos
 
 **Link to work:** https://www.udemy.com/user/ajroos/
+
+### Day 38: 24 October 2017
+
+**Today's Progress**: Watched @Wesbos es6 course videos
+
+**Thoughts:** Was starting to suffer from burnout. Took a few days off to recover and back to learning.
+
+**Link to work:** None
