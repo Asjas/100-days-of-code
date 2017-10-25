@@ -312,3 +312,11 @@ layout of all elements.
 **Thoughts:** Was starting to suffer from burnout. Took a few days off to recover and back to learning.
 
 **Link to work:** None
+
+### Day 39: 25 October 2017
+
+**Today's Progress**: Working on my new personal webpage.
+
+**Thoughts:** Finished the responsive navbar & hero image. Also downloaded & configured bootstrap locally
+
+**Link to work:** https://github.com/Asjas/Personal-Webpage
