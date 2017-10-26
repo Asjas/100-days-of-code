@@ -320,3 +320,11 @@ layout of all elements.
 **Thoughts:** Finished the responsive navbar & hero image. Also downloaded & configured bootstrap locally
 
 **Link to work:** https://github.com/Asjas/Personal-Webpage
+
+### Day 40: 26 October 2017
+
+**Today's Progress**: Working on my new personal webpage.
+
+**Thoughts:** Finished sticky nav bar. Also setup font files locally with sass. Started with the projects part of the website.
+
+**Link to work:** https://github.com/Asjas/Personal-Webpage
