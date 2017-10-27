@@ -328,3 +328,11 @@ layout of all elements.
 **Thoughts:** Finished sticky nav bar. Also setup font files locally with sass. Started with the projects part of the website.
 
 **Link to work:** https://github.com/Asjas/Personal-Webpage
+
+### Day 41: 27 October 2017
+
+**Today's Progress**: Working on my new personal webpage.
+
+**Thoughts:** Finished the Projects banner page. Need to fix the webpage on mobile.
+
+**Link to work:** https://asjasroos.co.za
